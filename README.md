@@ -7,22 +7,21 @@ This project aims to analyze crop yield data for sorghum and maize in the Karamo
 
 ## Key Findings
 
-Significant variations in crop yields were observed across different districts and sub-counties within Karamoja.
-Sorghum consistently outperformed maize in terms of yield, particularly in the northern districts.
-Population growth and land pressure are emerging challenges that could impact future crop production.
+-Significant variations in crop yields were observed across different districts and sub-counties within Karamoja. <br>
+-Sorghum consistently outperformed maize in terms of yield, particularly in the northern districts. <br>
+-Population growth and land pressure are emerging challenges that could impact future crop production. <br>
 ## Recommendations
 
-Prioritize investment in high-yielding sorghum varieties.
-Improve agricultural practices in low-yielding areas.
-Invest in infrastructure to enhance market access.
-Diversify crop production to reduce risk.
-Support climate resilience strategies.
-Strengthen extension services.
-Address population growth and land pressure.
+-Prioritize investment in high-yielding sorghum varieties. <br>
+-Improve agricultural practices in low-yielding areas. <br>
+-Invest in infrastructure to enhance market access. <br>
+-Diversify crop production to reduce risk. <br>
+-Support climate resilience strategies. <br>
+-Strengthen extension services. br><
+-Address population growth and land pressure. <br>
 ## Project Structure
 
 data/: Contains the raw data files used for the analysis. <br>
 scripts/: Contains Python scripts for data cleaning, analysis, and visualization. <br>
-output/: Stores the output files, including visualizations and analysis results. <br>
 presentation/: Contains the PowerPoint presentation summarizing the project findings and recommendations. <br>
 dashboard/: Contains the Tableau dashboard providing interactive visualizations of the data. <br>
