@@ -17,7 +17,7 @@ This project aims to analyze crop yield data for sorghum and maize in the Karamo
 -Invest in infrastructure to enhance market access. <br>
 -Diversify crop production to reduce risk. <br>
 -Support climate resilience strategies. <br>
--Strengthen extension services. br><
+-Strengthen extension services. <br>
 -Address population growth and land pressure. <br>
 ## Project Structure
 
